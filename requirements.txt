@@ -1,0 +1,6 @@
+Please run Amy's file first. Pyvizenv
+
+for Andrew's files to work vectorbt needs to be installed in Pyvizenv
+
+for Anita file Alpacaenv
+
